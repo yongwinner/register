@@ -1,0 +1,12 @@
+{
+  "description": "Ollama AI Server",
+  "repo": "https://github.com/yongwinner/register",
+  "owner": {
+    "username": "yongwinner",
+    "email": "yongcnjp@yahoo.co.jp"
+  },
+  "record": {
+    "CNAME": "surfaces-instead-lat-stainless.trycloudflare.com"
+  },
+  "strict": false
+}
